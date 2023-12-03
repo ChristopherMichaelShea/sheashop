@@ -20,7 +20,7 @@ Welcome to the MERN Ecommerce Website, a mock e-commerce platform built using th
 
 ## Demo
 
-You can explore the live demo of the project at [Demo Link](#) (coming soon).
+You can explore the live demo of the project at [(sheashop.com/)](https://sheashop.onrender.com/).
 
 ## Usage
 
